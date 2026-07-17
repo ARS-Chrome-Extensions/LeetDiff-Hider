@@ -14,7 +14,7 @@ Train your intuition by hiding LeetCode difficulty labels and solve problems wit
 
 ---
 
-## ✨ Overview
+## Overview
 
 LeetDiff Hider is a lightweight Chrome extension that hides **Easy**, **Medium**, and **Hard** difficulty labels on LeetCode.
 
@@ -22,16 +22,16 @@ Difficulty labels can unintentionally influence how you approach a problem. By h
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎯 Hide Easy, Medium & Hard difficulty labels
-- ⚡ Instant one-click toggle
-- 🔒 100% Local (No analytics or tracking)
-- 🪶 Lightweight and fast
-- 🧩 Manifest V3
-- 💻 Open Source
-- 🌙 Beautiful popup interface
-- 🔄 Settings synced using Chrome Storage
+- Hide Easy, Medium & Hard difficulty labels
+- Instant one-click toggle
+- 100% Local (No analytics or tracking)
+- Lightweight and fast
+- Manifest V3
+- Open Source
+- Beautiful popup interface
+- Settings synced using Chrome Storage
 
 ---
 
@@ -48,12 +48,12 @@ chrome://extensions
 4. Enable **Developer Mode**.
 5. Click **Load unpacked**.
 6. Select the extracted **extension** folder.
-7. Done 🎉
+7. Done
 
 ---
 
 
-## 🔐 Privacy
+## Privacy
 
 LeetDiff Hider does **not**
 
@@ -67,7 +67,7 @@ Everything runs locally inside your browser.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -94,7 +94,7 @@ git push origin feature/my-feature
 
 ---
 
-## 🐛 Bug Reports
+## Bug Reports
 
 If you find a bug, please open an issue with:
 
