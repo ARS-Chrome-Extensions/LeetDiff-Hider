@@ -10,6 +10,7 @@ Train your intuition by hiding LeetCode difficulty labels and solve problems wit
 
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-5AB864?style=for-the-badge)]()
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-5AB864?style=for-the-badge)]()
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge)]()
 </div>
 
 ---
