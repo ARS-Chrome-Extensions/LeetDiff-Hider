@@ -35,7 +35,7 @@ Difficulty labels can unintentionally influence how you approach a problem. By h
 
 ---
 
-## 🛠 Installation
+## Installation
 
 1. Download the latest ZIP from the Releases page.
 2. Extract the ZIP.
