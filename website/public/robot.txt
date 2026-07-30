@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leetdiff-hider.vercel.app/sitemap.xml
